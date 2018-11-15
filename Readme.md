@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [Form2.cs](./CS/Form2.cs) (VB: [Form2.vb](./VB/Form2.vb))
+* [SimpleDataSet.cs](./CS/SimpleDataSet.cs) (VB: [SimpleDataSet.vb](./VB/SimpleDataSet.vb))
+<!-- default file list end -->
 # How to build a bridge between chart and pivot grid: Extended version
 
 
